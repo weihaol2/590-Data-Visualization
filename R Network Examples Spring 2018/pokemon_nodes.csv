@@ -1,0 +1,62 @@
+id,id.type,type.label
+Bulbasaur,1,pokemon
+Ivysaur,1,pokemon
+Venusaur,1,pokemon
+Mega Venusaur,1,pokemon
+Charmander,1,pokemon
+Charmeleon,1,pokemon
+Charizard,1,pokemon
+Mega Charizard X,1,pokemon
+Mega Charizard Y,1,pokemon
+Squirtle,1,pokemon
+Wartortle,1,pokemon
+Blastoise,1,pokemon
+Mega Blastoise,1,pokemon
+Caterpie,1,pokemon
+Metapod,1,pokemon
+Butterfree,1,pokemon
+Weedle,1,pokemon
+Kakuna,1,pokemon
+Beedrill,1,pokemon
+Mega Beedrill,1,pokemon
+Pidgey,1,pokemon
+Pidgeotto,1,pokemon
+Pidgeot,1,pokemon
+Mega Pidgeot,1,pokemon
+Rattata,1,pokemon
+Raticate,1,pokemon
+Spearow,1,pokemon
+Fearow,1,pokemon
+Ekans,1,pokemon
+Arbok,1,pokemon
+Pikachu,1,pokemon
+Raichu,1,pokemon
+Sandshrew,1,pokemon
+Sandslash,1,pokemon
+Nidoran G,1,pokemon
+Nidorina,1,pokemon
+Nidoqueen,1,pokemon
+Nidoran B,1,pokemon
+Nidorino,1,pokemon
+Nidoking,1,pokemon
+Clefairy,1,pokemon
+Clefable,1,pokemon
+Vulpix,1,pokemon
+Ninetales,1,pokemon
+Jigglypuff,1,pokemon
+Wigglytuff,1,pokemon
+Zubat,1,pokemon
+Golbat,1,pokemon
+Oddish,1,pokemon
+Gloom,1,pokemon
+Grass,2,type
+Fire,3,type
+Water,4,type
+Bug,5,type
+Normal,6,type
+Poison,7,type
+Electric,8,type
+Ground,9,type
+Fairy,10,type
+Flying,11,type
+Dragon,12,type

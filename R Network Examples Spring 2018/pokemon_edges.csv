@@ -1,0 +1,77 @@
+from,to
+Bulbasaur,Grass
+Ivysaur,Grass
+Venusaur,Grass
+Mega Venusaur,Grass
+Charmander,Fire
+Charmeleon,Fire
+Charizard,Fire
+Mega Charizard X,Fire
+Mega Charizard Y,Fire
+Squirtle,Water
+Wartortle,Water
+Blastoise,Water
+Mega Blastoise,Water
+Caterpie,Bug
+Metapod,Bug
+Butterfree,Bug
+Weedle,Bug
+Kakuna,Bug
+Beedrill,Bug
+Mega Beedrill,Bug
+Pidgey,Normal
+Pidgeotto,Normal
+Pidgeot,Normal
+Mega Pidgeot,Normal
+Rattata,Normal
+Raticate,Normal
+Spearow,Normal
+Fearow,Normal
+Ekans,Poison
+Arbok,Poison
+Pikachu,Electric
+Raichu,Electric
+Sandshrew,Ground
+Sandslash,Ground
+Nidoran G,Poison
+Nidorina,Poison
+Nidoqueen,Poison
+Nidoran B,Poison
+Nidorino,Poison
+Nidoking,Poison
+Clefairy,Fairy
+Clefable,Fairy
+Vulpix,Fire
+Ninetales,Fire
+Jigglypuff,Normal
+Wigglytuff,Normal
+Zubat,Poison
+Golbat,Poison
+Oddish,Grass
+Gloom,Grass
+Bulbasaur,Poison
+Ivysaur,Poison
+Venusaur,Poison
+Mega Venusaur,Poison
+Charizard,Flying
+Mega Charizard X,Dragon
+Mega Charizard Y,Flying
+Butterfree,Flying
+Weedle,Poison
+Kakuna,Poison
+Beedrill,Poison
+Mega Beedrill,Poison
+Pidgey,Flying
+Pidgeotto,Flying
+Pidgeot,Flying
+Mega Pidgeot,Flying
+Spearow,Flying
+Fearow,Flying
+Nidoqueen,Ground
+Nidoking,Ground
+Jigglypuff,Fairy
+Wigglytuff,Fairy
+Zubat,Flying
+Golbat,Flying
+Oddish,Poison
+Gloom,Poison
